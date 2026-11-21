@@ -8,3 +8,9 @@ Department of Computer Science.
 - Department Introduction
 - Faculty Details
 - Courses
+
+## Activities
+
+- Workshops
+- Hackathons
+- Technical Seminars
