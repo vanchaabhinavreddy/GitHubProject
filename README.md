@@ -14,3 +14,8 @@ Department of Computer Science.
 - Workshops
 - Hackathons
 - Technical Seminars
+
+## New Feature
+
+The website now includes information
+about department events.
